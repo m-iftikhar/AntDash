@@ -6,7 +6,7 @@ const Header = () => {
     <div className="AppHeader">
       <Image 
       width={60}
-      src="https://img.freepik.com/free-vector/business-user-shield_78370-7029.jpg"/>
+      src="https://img.freepik.com/free-vector/business-user-shield_78370-7029.jpg" />
       <Typography.Title>AntDesign DashBoard</Typography.Title>
       <Space>
         <Badge count={10} dot>
